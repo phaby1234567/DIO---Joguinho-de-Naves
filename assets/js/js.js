@@ -30,7 +30,10 @@ function start() { // Inicio da função start()
     var salvos=0;
     var perdidos=0;
     var energiaAtual=3;
-    
+
+// o w representa a seta para cima, o s representa a seta para baixo e o d a seta para a direita IMPORTANTE!!!
+
+  
     var TECLA = {
         W: 38,
         S: 40,
